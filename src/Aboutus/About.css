@@ -1,0 +1,38 @@
+.leftimg{
+    transform: rotate(179deg);
+
+}
+.leftimg{
+   
+}
+
+
+
+.aboutus{
+    display: flex;
+    background-color: #296464;
+}
+
+.imgcos{width: 220px;}
+.swtchimg{display: flex; gap: 5px; margin-top: 250px;}
+.swtchimg img{width: 20px; height: 20px; cursor: pointer;}
+
+.imgcos{
+    padding: 10px;
+    box-shadow: 10px 10px 15px 0px;
+    border-block-start: 10px solid yellow;
+    border-right: 10px solid yellow;
+}
+
+h3 ,p{
+    color: white;
+}
+
+.h1 {
+    text-align: center;
+    color: blueviolet;
+}
+.h3 ,.spanc{
+   
+    color: rgb(226, 214, 43);
+}

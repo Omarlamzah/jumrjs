@@ -1,0 +1,16 @@
+.asidbar{
+    background-color: #ef8f0a;
+    width: 30%;
+    position: absolute;
+    right: 0px;
+    height: 600px;
+}
+
+.heartrate{
+    background-color: black;
+    color: white;
+    width: 130px;
+    padding: 20px;
+    float: right;
+    border-radius: 20px;
+}

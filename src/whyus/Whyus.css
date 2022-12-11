@@ -1,0 +1,62 @@
+.wyus {
+    display: flex;
+    gap: 1vw;
+    padding-top: 50px;
+    background-color: black;
+}
+
+.img1 {
+   width: 24%;
+   height: 50vw;
+}
+
+.galrs{
+}
+
+.img2 {
+    width: 40vw;   
+
+}
+.img3 {
+    width: 20vw; 
+}
+.img4 {
+    width: 20vw; 
+}
+
+.toimag{
+    display: flex;
+    gap: 1vw;
+    margin-top: 10px;
+    
+}
+
+.infous{
+     
+background-color: hwb(61 0% 0%);
+width: 50%;
+padding: 20px;
+background-color: rgb(32, 8, 8);
+color: white;
+
+}
+
+.infous h4{
+
+}
+.infous h6{
+    color: rgb(235, 124, 21);
+
+}
+
+.infous ul{
+    
+    font-size: 1.7vw;
+    font-family: serif;
+    font-weight: 800;
+}
+
+.infous ul li{
+    list-style-image: url("../assets/tick.png");
+    
+} 

@@ -1,0 +1,64 @@
+.myname{
+    color: #337ab7;
+    font-style: oblique;
+    font-family: initial;
+}
+.text-center{
+    text-align: center;
+}
+.content-email{
+    padding: 30px;
+    }
+
+    .name-email-input {
+        display: flex;
+        justify-content: space-between;
+       
+    } 
+
+    .inputstyle{
+        background-color: #1c1c15;
+        border: 0px;
+        border-bottom: 1px #e5ed6c solid;
+        border-radius: 10px;
+        color: white;
+    }
+
+    .suject input{
+        margin: 20px 0px;
+        width: 100%;
+        height: 4vw;
+    }
+
+
+    .txtarea{
+        width: 100%;
+    }
+
+    .sendcon input
+{
+    float: right;
+    color: white;
+}
+
+
+
+.limystylebox {
+    list-style-type: none;
+    border-bottom: 1px solid black;
+    box-shadow: 0px 0px 6px 0px;
+    padding: 4px;
+    background-color: #402f2f;
+    transition: 1s;
+}
+.limystylebox:hover {
+    background-color: #364f54;
+    transform: scale(1.2);
+}
+
+
+.cntr{
+
+    background-color: #402f2f;
+    color: white;
+}

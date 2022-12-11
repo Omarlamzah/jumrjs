@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jum/static/css/main.f4b7fc09.css",
+    "main.js": "/jum/static/js/main.00ca4bb6.js",
+    "static/js/787.1b75dbae.chunk.js": "/jum/static/js/787.1b75dbae.chunk.js",
+    "static/media/hero_image.png": "/jum/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/t-image1.png": "/jum/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/image1.png": "/jum/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/image2.png": "/jum/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/t-image3.jpg": "/jum/static/media/t-image3.3894413f7bf2b4f1fc54.jpg",
+    "static/media/image3.png": "/jum/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/jum/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/t-image2.jpg": "/jum/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
+    "static/media/closeicon.png": "/jum/static/media/closeicon.76d6c4c15d5c23489f38.png",
+    "static/media/hero_image_back.png": "/jum/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "static/media/heartHealth.svg": "/jum/static/media/heartHealth.644e2dc11a3f968c0ebd72936030b7ca.svg",
+    "static/media/dumbell.svg": "/jum/static/media/dumbell.1926e24adc019f758847359ff32b68d4.svg",
+    "static/media/runing.svg": "/jum/static/media/runing.883e288653dec299ff94ac4863daefa7.svg",
+    "static/media/flame.svg": "/jum/static/media/flame.16336146bf754d693dd5c6e628555147.svg",
+    "index.html": "/jum/index.html",
+    "main.f4b7fc09.css.map": "/jum/static/css/main.f4b7fc09.css.map",
+    "main.00ca4bb6.js.map": "/jum/static/js/main.00ca4bb6.js.map",
+    "787.1b75dbae.chunk.js.map": "/jum/static/js/787.1b75dbae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4b7fc09.css",
+    "static/js/main.00ca4bb6.js"
+  ]
+}

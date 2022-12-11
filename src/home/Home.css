@@ -1,0 +1,97 @@
+.home{
+    background-color: #5a3502;
+    width: 70%;
+    height: 600px;
+}
+
+
+.imgh{
+    position: absolute;
+    right: 16%;
+    top: 150px;
+
+}
+
+
+.imghero {
+    width: 300px;
+   
+}
+
+.imghero2 {
+    width: 170px;
+    right: 23%;
+    top: 80px;
+}
+
+
+.thtitle {
+    margin: 50px;
+    position: absolute;
+    color: white;
+    background-color: black;
+    padding: 13px;
+    padding-top: 20px;
+    border-radius: 35px;
+}
+
+.thebest{ 
+    background-color: rgb(223, 167, 13);  
+    padding: 13px;
+    border-radius: 35px;
+}
+
+.titleheader{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    font-size: 5vw;
+    color: white;
+}
+
+.para{
+    position: absolute;
+    top: 360px;
+    color: white;
+    left: 20px;
+    font-style: oblique;
+    margin-top: 20px;
+}
+.numbers {
+    color: wheat;
+    position: absolute;
+    top: 415px;
+    display: flex;
+    text-align: center;
+    gap: 1%;
+    left: 20px;
+}
+
+.glr{
+    margin-left: 20px;
+    display: flex;
+    gap: 1%;
+    background-color: black;
+    padding: 10px;
+    border-radius: 11px;
+    margin-top: -16px;
+}
+
+
+.inpts {
+    position: absolute;
+    top: 530px;
+    left: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+
+
+.inpts input {
+    transition: 0.5s;
+}
+
+.inpts input:hover {
+    border: 2px solid;
+}
